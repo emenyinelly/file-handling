@@ -1,17 +1,5 @@
 # file-handling
 
-munity
-User woman1User man1User woman2User man2
-+999
-
-Back To My Project List
-File Handling
-
-File Handling Checkpoint
-
-Unlocked
-Deadline: 27.06.2026
-
 What You're Aiming For
 To develop practical skills in file handling using Python by learning how to efficiently manage and manipulate file input/output operations on real-world datasets. The aim is to master the essential techniques for opening, reading, writing, and closing files within Python, ensuring effective data access and resource management in software development or data analysis tasks.
 
