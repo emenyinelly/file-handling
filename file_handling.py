@@ -29,6 +29,3 @@ print(f"Mean Loan Amount     : ${mean_loan:,.2f}")
 print(f"Median Loan Amount   : ${median_loan:,.2f}")
 print(f"Standard Deviation   : ${std_loan:,.2f}")
 print(f"Total Records Analyzed: {len(data)}")
-
-#how to run:
-python loan_analysis.py
